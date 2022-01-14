@@ -1,2 +1,2 @@
-# AppleStore
-My first website inspired by Apple-Store
+My HTML website using bootstrap for the fist time
+
